@@ -1,4 +1,4 @@
-# Monadic_Party_Snake
+# Monadic Party Snake
 
 This repository contains the skeleton code for making a snake game as shown at [Monadic Party](https://www.youtube.com/watch?v=6yYchqXbMhA).
 
